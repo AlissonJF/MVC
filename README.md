@@ -2,7 +2,7 @@
 
 Aqui estão alocados todos os arquivos e scripts necessários para a formação de uma estrutura MVC!
 
-# Método de Uso
+## Método de Uso
 
 * Fazer o download dos arquivos
 
