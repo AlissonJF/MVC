@@ -1,6 +1,8 @@
-# MVC
+# Projeto Estrutura MVC
 
 Aqui estão alocados todos os arquivos e scripts necessários para a formação de uma estrutura MVC!
+
+<img src="public/images/Screenshot_1.png">
 
 ## Método de Uso
 
