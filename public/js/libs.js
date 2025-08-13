@@ -1,4 +1,4 @@
-var BASEURL = "http://localhost/estagio/MVC/";
+var BASEURL = "http://localhost/MVC/";
 
 async function getUrl(url) {
     const response = await axios.get(url);
