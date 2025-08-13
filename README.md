@@ -8,4 +8,4 @@ Aqui estão alocados todos os arquivos e scripts necessários para a formação 
 
 * Fazer o download dos arquivos
 
-* Nos arquivos "config.php" e "public/js/libs.js" mudar trajetória para o caminho desejado. Por exemplo: "http://localhost/estagio/MVC/"
+* Nos arquivos "config.php" e "public/js/libs.js" mudar trajetória para o caminho desejado. Por exemplo: "http://localhost/MVC/"
