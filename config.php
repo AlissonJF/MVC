@@ -1,7 +1,7 @@
 <?php
 
 // coloque a barra / no final
-define('URL', 'http://localhost/estagio/MVC/');
+define('URL', 'http://localhost/MVC/');
 // **** OBS:> alterar também a url do preloader no main.css
 
 define('LIBS', 'libs/');
